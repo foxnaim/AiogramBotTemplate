@@ -1,3 +1,8 @@
+> **foxnaim** · Шаблон для быстрого старта
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # 📋 Telegram Bot Template
 This template provides clean start to create bot using aiogram.
 
